@@ -10,10 +10,9 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/c/YMC69"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.facebook.com/is.mael.581187"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/khaledg4g/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ismail-elgharnougui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.facebook.com/khaled.baoueb/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/khaledbaoueb/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mouhamed-khaled-baoueb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 
   <a href="https://github.com/khaledg4g?tab=repositories&sort=stargazers">
@@ -29,10 +28,10 @@
 </div>
    </p>
 
-<h3 align="center">A passionate Web developer from Tunisia</h3>
+<h3 align="center">A Passionate and results-driven final-year engineering student specializing in Cloud Computing & DevOps, seeking an end-of-study internship</h3>
 
 - 🎓 I’m currently a Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
-- 📫 How to reach me : 
+- 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mouhamedkhaledbaoueb@gmail.com
 
 
 
