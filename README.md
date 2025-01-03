@@ -2,7 +2,7 @@
 
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/khaledg4g">Mohamed Khaled Baoueb</a></h3>
