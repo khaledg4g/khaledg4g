@@ -71,22 +71,49 @@
 
 <details open>
   <summary> <b>Tools & Technologies</b>: </summary>
-  <ul>
-    <li><b>Languages:</b> PHP, JavaScript (ES2017), TypeScript, Python, Java, C/C++, HTML5, CSS3, SQL</li>
-    <li><b>Frameworks:</b> Laravel, Symfony, Angular 2+, Redux, Spring Boot</li>
-    <li><b>DevOps Tools:</b> GitLab CI/CD, Jenkins, Ansible, Terraform, Docker, Kubernetes</li>
-    <li><b>Static & Dynamic Analysis:</b> PHPStan, SonarQube, OWASP ZAP</li>
-    <li><b>Version Control:</b> Git, GitHub, GitLab</li>
-    <li><b>Database Systems:</b> MariaDB, MySQL</li>
-    <li><b>Cloud Platforms:</b> AWS (Certified Cloud Practitioner)</li>
-    <li><b>Automation & Monitoring:</b> Prometheus, Grafana</li>
-    <li><b>IoT & Embedded Systems:</b> Arduino, Altium Designer, Siemens TIA Portal</li>
-    <li><b>CAD & Mechanical Tools:</b> FACTORY I/O, SCADA, PLC, HMI</li>
-    <li><b>Other:</b> Nexus, PHPUnit, JUnit, Mockito, Firebase, d3.js</li>
-    <li><b>Operating Systems:</b> Windows, Ubuntu, Unix</li>
-    <li><b>Certifications:</b> Scrum Fundamentals Certified</li>
-  </ul>
-</details>
+  <p align="left">
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+
+    <!-- Frameworks -->
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+
+    <!-- DevOps Tools -->
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
+    <!-- Analysis Tools -->
+    <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+    <img src="https://img.shields.io/badge/PHPStan-4F5D95?style=for-the-badge&logo=php&logoColor=white" alt="PHPStan" />
+
+    <!-- Cloud & Monitoring -->
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+
+    <!-- Version Control -->
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </p>
+ 
+
 
 
 
