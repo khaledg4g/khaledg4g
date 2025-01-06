@@ -43,10 +43,10 @@
 
 ## 💎 My Values
 
-
+🕺 Passionate and results-driven,Time Management, Communication, Collaboration, Problem‑Solving, Attention to Details<br/>
 🙌 Teamwork & Communication & Leadership<br/>
 🙋‍♂️ Autonomous <br/>
-🕺 & More to discover ...
+
 
 <h3 align="left">Languages ,Tools and DB:</h3> 
 <p>
