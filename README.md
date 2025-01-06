@@ -48,7 +48,8 @@
 
 <h3 align="left">Languages ,Tools and DB:</h3> 
 <p>
- <img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,kubernetes,docker,terraform,aws,openstack,prometheus,grafana,sonarqube,owaspzap,nexus,java,react,laravel,angular,spring,typescript,javascript,html,css,sass,bootstrap,python,php,jquery,r,maven,django,symfony,dotnet,mysql,sqlite,postgres,graphql,linux,git,githubactions,postman,npm,swagger,stackoverflow,vscode,c,cpp,tailwindcss" alt="Tech Stack Icons" />
+ <img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,kubernetes,docker,terraform,aws,openstack,prometheus,grafana,sonarqube,owasp,nexus,java,react,laravel,angular,spring,typescript,javascript,html,css,sass,bootstrap,python,php,jquery,r,maven,django,symfony,dotnet,mysql,sqlite,postgres,graphql,linux,git,githubactions,postman,stackoverflow,vscode,c,cpp,tailwindcss" alt="Tech Stack Icons" />
+
 
   
 </p>
