@@ -36,7 +36,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=khaledg4g&theme=radical&row=1&column=10)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=khaledg4g&theme=radical&row=2&column=5&no-bg=true&no-frame=true)
+
 
 
 
