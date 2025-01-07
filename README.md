@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 
 ## Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
