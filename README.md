@@ -30,7 +30,7 @@
 
 <h3 align="center">A Passionate and results-driven final-year engineering student specializing in Cloud Computing & DevOps, seeking an end-of-study internship</h3>
 
-- 🎓 I’m currently a Software Engineering Student at [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
+- 🎓 I’m currently a Software Engineering Student at [FH Schmalkalden University of Applied Sciences](https://www.hs-schmalkalden.de/)
 - 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mouhamedkhaledbaoueb@gmail.com
 
 
