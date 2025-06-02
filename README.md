@@ -28,7 +28,11 @@
 </div>
    </p>
 
-<h3 align="center">A Passionate and results-driven final-year engineering student specializing in Cloud Computing & DevOps, seeking an end-of-study internship</h3>
+<h3 align="center">
+Final-year engineering student specializing in Cloud Computing and DevOps, currently doing my end-of-study internship at BMW Group. I’ve also completed internships with Safran and other companies, gaining hands-on experience with Full-Stack Development, CI/CD PipeLines, Infrastructure as code (IaC), containerization ,container orchestration and monitoring.
+I’m actively looking for a full-time role starting in late this year, where I can grow and contribute to innovative, tech-driven teams.
+
+</h3>
 
 - 🎓 I’m currently a Software Engineering Student at [FH Schmalkalden University of Applied Sciences](https://www.hs-schmalkalden.de/)
 - 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mouhamedkhaledbaoueb@gmail.com
