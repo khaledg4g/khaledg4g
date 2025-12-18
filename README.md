@@ -29,13 +29,14 @@
    </p>
 
 <h3 align="center">
-Final-year engineering student specializing in Cloud Computing and DevOps, currently doing my end-of-study internship at BMW Group. I’ve also completed internships with Safran and other companies, gaining hands-on experience with Full-Stack Development, CI/CD PipeLines, Infrastructure as code (IaC), containerization ,container orchestration and monitoring.
-I’m actively looking for a full-time role starting in late this year, where I can grow and contribute to innovative, tech-driven teams.
+Recently graduated engineering student specializing in Cloud Computing and DevOps, currently completing my end-of-study internship at BMW Group. I have also completed internships with Safran and other companies, gaining hands-on experience in Full-Stack Development, CI/CD pipelines, Infrastructure as Code (IaC), containerization, container orchestration, and monitoring.
+
+I am actively seeking a full-time role starting later this year, where I can continue to grow and contribute to innovative, tech-driven teams.
 
 </h3>
 
-- 🎓 I’m currently a Software Engineering Student at [FH Schmalkalden University of Applied Sciences](https://www.hs-schmalkalden.de/)
-- 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mouhamedkhaledbaoueb@gmail.com
+- 🎓 I’m a Junior DevOps Engineer 
+- 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mohamedkhaledbaouab@gmail.com
 
 
 
