@@ -29,7 +29,7 @@
    </p>
 
 <h3 align="center">
-Recently graduated engineering student specializing in Cloud Computing and DevOps, currently completing my end-of-study internship at BMW Group. I have also completed internships with Safran and other companies, gaining hands-on experience in Full-Stack Development, CI/CD pipelines, Infrastructure as Code (IaC), containerization, container orchestration, and monitoring.
+Recently graduated Software Engineer specializing in Cloud Computing and DevOps, completed my engineering Thesis at BMW Group. I have also completed internships with Safran and other companies, gaining hands-on experience in Full-Stack Development, CI/CD pipelines, Infrastructure as Code (IaC), containerization, container orchestration, and monitoring.
 
 I am actively seeking a full-time role starting later this year, where I can continue to grow and contribute to innovative, tech-driven teams.
 
