@@ -2,7 +2,7 @@
   
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=4+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=1+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/khaledg4g">Mohamed Khaled Baoueb</a></h3>
@@ -29,14 +29,14 @@
    </p>
 
 <h3 align="center">
-Recently graduated Software Engineer specializing in Cloud Computing and DevOps, completed my engineering Thesis at BMW Group. I have also completed internships with Safran and other companies, gaining hands-on experience in Full-Stack Development, CI/CD pipelines, Infrastructure as Code (IaC), containerization, container orchestration, and monitoring.
+Freshly graduated Software Engineer specializing in Cloud Computing and DevOps, currently working as a Junior DevOps Engineer at BAYARD, part of the Markant Group.
 
-I am actively seeking a full-time role starting later this year, where I can continue to grow and contribute to innovative, tech-driven teams.
+Experienced in DevOps and application development, with hands-on experience in CI/CD, infrastructure automation, containerization and orchestration, and monitoring, with a solid understanding of software architectures and the end-to-end software lifecycle. I completed my engineering thesis at BMW Group and gained hands-on experience through internships at Safran and other companies.
 
 </h3>
 
 - 🎓 I’m a Junior DevOps Engineer 
-- 📫 How to reach me : mk.baoueb@stud.fh-sm.de / mohamedkhaledbaouab@gmail.com
+- 📫 How to reach me : mohamedkhaledbaouab@gmail.com
 
 
 
